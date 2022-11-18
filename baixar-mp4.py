@@ -17,3 +17,5 @@ print("Baixando... ")
 ys = yt.streams.get_highest_resolution()
 ys.download()
 print("Download completo! ")
+
+# O video vai esta na mesma pasta do script acima.
