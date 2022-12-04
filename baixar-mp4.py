@@ -3,9 +3,9 @@ from pytube import YouTube, streams
 from pytube.cli import on_progress
 
 # Instalação das biblioteca do python pelo cmd ou o PowerShell com os comandos abaixo
-# pip install pytube
-# pip install moviepy
-# pip shell
+# python -m pip install pytube
+# python -m pip install moviepy
+# python -m pip shell
 
 # Digite o link do video no caso a (url) do video do youtube
 link = input("Digite o link do video que deseja baixar: ")
